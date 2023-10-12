@@ -3,7 +3,7 @@ Olá, seja bem-vind@ ao meu primeiro projeto desenvolvido no curso de HTML e CSS
 
 ![tela-1](https://github.com/emilyfariasa/portfolio/assets/123472927/25c2b8f0-f9dc-425b-9bcc-861b68a8e258)
 
-#Ferramentas utilizadas:
+##Ferramentas utilizadas:
 
 *HTML
 
