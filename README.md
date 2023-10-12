@@ -12,7 +12,7 @@ Olá, seja bem-vind@ ao meu primeiro projeto desenvolvido no curso de HTML e CSS
 * Flex-box
 
 ## Feito por:
-## Emily Farias
+### Emily Farias
 
 ### Linkedin: https://www.linkedin.com/in/emily-farias-656b8b149/
 
